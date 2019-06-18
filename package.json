@@ -1,0 +1,15 @@
+{
+  "name": "my-elva-syntax",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "my enhancement for the elva theme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/my-elva-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
